@@ -14,7 +14,7 @@ My research focuses on experimental nuclear and particle physics, with analysis 
 
 ### Hadron spectroscopy
 
-Studies of excited charmed baryons and charmed-strange mesons, including the Ξc(2930), Λc(2910), and radiative decays of the D*s0(2317).
+Studies of excited charmed baryons and charmed-strange mesons, including the Ξc(2930), Λc(2910), and radiative decays of the D\*s0(2317).
 
 ### Charmed-baryon decays
 
@@ -26,7 +26,7 @@ Searches for baryon- and lepton-number violation at Belle II, and sensitivity st
 
 ## Selected Publications
 
-### 2026 · Observation of the Radiative Decay D*ₛ₀(2317)⁺ → D*ₛ⁺γ
+### 2026 · Observation of the Radiative Decay D\*ₛ₀(2317)⁺ → D\*ₛ⁺γ
 
 M. Abumusabh … Y. B. Li et al. · Belle and Belle II  
 *Physical Review Letters 136, 241901* · Featured in Physics
