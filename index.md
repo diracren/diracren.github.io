@@ -2,15 +2,18 @@
 
 **Associate Professor · Xi’an Jiaotong University**
 
-Exploring hadron structure and fundamental interactions through precision measurements at electron–positron colliders.
+Exploring hadron structure and fundamental interactions through precision measurements at Belle II.
 
 Belle & Belle II · Xi’an, China
 
-[Email](mailto:yubo.li@xjtu.edu.cn) · [GitHub](https://github.com/diracren)
+[Email](mailto:yubo.li@xjtu.edu.cn)
 
 ## Research
 
 My research focuses on experimental nuclear and particle physics, with analysis experience in the Belle and Belle II collaborations since 2016.
+
+[Introduction to Belle II](https://www.bilibili.com/zh-Hans/video/BV1t9itB2EKW/)
+
 
 ### Hadron spectroscopy
 
@@ -102,7 +105,6 @@ Y. B. Li, C. P. Shen and C. Z. Yuan
 
 - **Peking University** — Ph.D. in Nuclear and Particle Physics · 2016–2020
 - **KEK, Tsukuba** — Joint Ph.D. research, Belle experiment · November 2017–November 2018
-- **Beihang University** — B.S. in Nuclear Physics · 2012–2016
 
 ## Collaboration & Service
 
